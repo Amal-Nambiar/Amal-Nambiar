@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Amal Nambiar 
 <p align="center">
-  <img src="VehicleCorrelation.gif" alt="Vehicle Correlation" width="32%" align="middle"/>
+  <img src="VehicleCorrelation1.gif" alt="Vehicle Correlation" width="32%" align="middle"/>
   <img src="State_Lattice_Stanley.gif" alt="Second Project" width="32%" align="middle"/>
   <img src="frenet_simulation.gif" alt="Third Project" width="32%" align="middle"/>
 </p>
