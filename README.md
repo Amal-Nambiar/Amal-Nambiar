@@ -1,12 +1,15 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <img src="VehicleCorrelation.gif" alt="Vehicle Correlation" width="100%"/>
     </td>
-    <td width="50%">
-      <img src="frenet_simulation" alt="Second GIF" width="100%"/>
+    <td width="33%">
+      <img src="frenet_simulation.gif" alt="Second GIF" width="100%"/>
     </td>
+    <td width="33%">
+      <img src="State_Lattice_Stanley.gif" alt="Second GIF" width="100%"/>
+    </td>    
   </tr>
 </table>
 
